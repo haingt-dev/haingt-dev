@@ -2,7 +2,7 @@
 
 I'm a backend developer from Vietnam building my way out of employment. After 7 years writing Node.js and AWS at scale, I'm now building an indie game dev ecosystem — tools, games, and content pipelines where every piece serves the others.
 
-I co-founded [Bookie](https://www.facebook.com/bookieinspires), a Vietnamese reading community that's been running for 9+ years. Currently building an AI-powered video pipeline that turns books into narrated videos for the community.
+I co-founded [Bookie](https://www.bookiecommunity.com/), a Vietnamese reading community that's been running for 9+ years. Currently building an AI-powered video pipeline that turns books into narrated videos for the community.
 
 When I'm not coding, I'm probably playing city builders, reading about systems thinking, or preparing for my first kid arriving April 2026.
 
