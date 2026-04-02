@@ -6,7 +6,7 @@ I co-founded [Bookie](https://www.bookiecommunity.com/), a Vietnamese reading co
 
 When I'm not coding, I'm probably playing city builders, reading about systems thinking, or preparing for my first kid arriving April 2026.
 
-I'm best reached at thanhhai9x98@gmail.com or through [haingt.dev](https://haingt.dev).
+I'm best reached at hai@haingt.dev or through [haingt.dev](https://haingt.dev).
 
 ---
 
